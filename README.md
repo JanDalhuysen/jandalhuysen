@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JanDalhuysen
+- 👋 Hi, I’m Jan Dalhuysen
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on React Native
