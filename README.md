@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanDalhuysen
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning Delphi
-- 💞️ I’m looking to collaborate on OpenAI Codex
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on React Native
 - 📫 How to reach me? Message me on Twitter or Instagram
 
 <!---
