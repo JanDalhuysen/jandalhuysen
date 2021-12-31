@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jan Dalhuysen
-- 👀 I’m interested in Electron
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on React Native
+- 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me? Message me on Twitter or Instagram
 
 <!---
