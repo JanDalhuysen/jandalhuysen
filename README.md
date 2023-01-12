@@ -1,9 +1,9 @@
 ## About me
 
 - 👋 Hi, I’m Jan Dalhuysen
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me? Message me on Twitter or Instagram
 
 ### Languages I speak
