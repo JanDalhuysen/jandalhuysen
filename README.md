@@ -1,30 +1,28 @@
-## About me
+# Hi, I’m Jan Dalhuysen
 
-- 👋 Hi, I’m Jan Dalhuysen
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me? Message me on Twitter or Instagram
+## Languages
 
-### Languages I speak
-[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://www.google.com/search?q=JavaScript)
-[<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://www.google.com/search?q=html)
+[<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://en.wikipedia.org/wiki/JavaScript)
+[<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white" />](<https://en.wikipedia.org/wiki/Delphi_(software)>)
 
-### JavaScript libraries I use
-[<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />](https://reactjs.org)
-[<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />](https://reactnative.dev)
+## Tools
 
-### Operating systems I use
+[<img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.org/en)
+[<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
+[<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />](https://cloud.google.com)
+
+## Operating systems
+
 [<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />](https://windows.com)
-[<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org)
+[<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://archlinux.org)
+[<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />](https://android.com)
 
-### My toolkit
-[<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev)
-[<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com)
+## Editors
 
-### My editor
 [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com)
 [<img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />](https://visualstudio.com)
+[<img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black" />](https://notepad-plus-plus.org)
 
 <!---
 [![Jan's Github stats](https://github-readme-stats.vercel.app/api?username=jandalhuysen&count_private=true&show_icons=true&theme=blue-green)](https://github.com/JanDalhuysen)
