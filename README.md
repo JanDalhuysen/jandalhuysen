@@ -15,16 +15,21 @@
 ### Operating systems
 
 [<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />](https://windows.com)
-[<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://archlinux.org)
 [<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />](https://android.com)
+[<img alt="NixOS" src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" />](https://nixos.org)
+[<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://archlinux.org)
 
 ### Editors
 
 [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com)
+[<img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />](https://neovim.io)
+[<img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6?style=flat-square&logo=gnu-emacs&logoColor=white" />](https://www.gnu.org/software/emacs)
+
+<!---
 [<img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />](https://visualstudio.com)
 [<img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black" />](https://notepad-plus-plus.org)
 
-<!---
+
 [![Jan's Github stats](https://github-readme-stats.vercel.app/api?username=jandalhuysen&count_private=true&show_icons=true&theme=blue-green)](https://github.com/JanDalhuysen)
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jandalhuysen&layout=compact&langs_count=8&theme=blue-green)](https://github.com/JanDalhuysen)
